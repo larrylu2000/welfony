@@ -2,3 +2,4 @@ source 'http://ruby.taobao.org'
 source 'http://ruby.taobao.org'
 gem 'cocoapods', '~>0.36.3'
 gem 'fastlane', '~>1.4.0'
+
